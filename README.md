@@ -1,6 +1,6 @@
 # C++ Inventory Manager
 
-My first larger C++ project. A simple console program to manage items in an inventory.
+A simple console program to manage items in an inventory.
 
 ## Features
 
